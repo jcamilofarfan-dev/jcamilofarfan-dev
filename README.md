@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @jcamilofarfan-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://twitter.com/jcamilofarfan">
+  <img align="left" alt="Camilo Farfan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-<!---
-jcamilofarfan-dev/jcamilofarfan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/jcamilofarfan/">
+  <img align="left" alt="Juan Camilo Farfan Juanias | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/jcamilofarfan/">
+  <img align="left" alt="Camilo Farfan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCP9HdiYMkLZ3YdqyFMOWF-w">
+  <img align="left" alt="Sistemas Contables - Juan Farfan | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=jcamilofarfan-dev.jcamilofarfan-dev)
+
+
+<h1>Juan Farfan</h1>
+<h3>Public Accountant :mortar_board: Specialist in Labor Law and Social Security</h3>
+<h3>🌱 I’m currently learning Web Development</h3>
+
+<p>I have worked in various companies in some doing accounting work and in others not, in which I have acquired various skills and competences where I have been able to generate and learn tools that facilitate accounting work.
+Currently I work in the Accounting / Payroll area of a logistics and transportation organization located in Colombia, I love Education :books: and Technology :computer:, therefore I have decided to mix my profession with the hobbies and skills that I have acquired to teach others what I would have liked to know when it starts. </p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jcamilofarfan-dev&theme=prussian&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilofarfan-dev&layout=compact)
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
